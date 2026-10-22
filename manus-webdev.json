@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "projectId": "wdp_d1078a74370a74bfac3c83c1",
+  "description": "双人P2P加密聊天室，采用浏览器WebRTC与带外证书指纹核对；本地开发和验收，不公开发布。"
+}
